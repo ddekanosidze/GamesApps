@@ -1,1 +1,2 @@
-console.log('asas');
+console.log('asasasadasdasd');
+alert('asdasd')
