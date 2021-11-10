@@ -1,2 +1,1 @@
-console.log('asasasadasdasd');
-alert('asdasd')
+alert('start')
